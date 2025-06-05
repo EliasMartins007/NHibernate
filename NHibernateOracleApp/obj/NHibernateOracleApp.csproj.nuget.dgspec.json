@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/app/NHibernateOracleApp/NHibernateOracleApp.csproj": {}
+  },
+  "projects": {
+    "/app/NHibernateOracleApp/NHibernateOracleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/app/NHibernateOracleApp/NHibernateOracleApp.csproj",
+        "projectName": "NHibernateOracleApp",
+        "projectPath": "/app/NHibernateOracleApp/NHibernateOracleApp.csproj",
+        "packagesPath": "/home/swebot/.nuget/packages/",
+        "outputPath": "/app/NHibernateOracleApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/swebot/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net481": {
+            "targetAlias": "net481",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net481": {
+          "targetAlias": "net481",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "NHibernate": {
+              "target": "Package",
+              "version": "[5.5.2, )"
+            },
+            "Oracle.ManagedDataAccess": {
+              "target": "Package",
+              "version": "[23.8.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.116/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

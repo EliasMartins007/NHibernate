@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "eMLXcBZe+ldF67wQPe/INxDpSH6yplQOeAZ3goK/HUGDgo9DlfhO1SNxMqrc3aI1QaNBGegnYU4LJWwGxCaZ0w==",
+  "success": true,
+  "projectFilePath": "/app/NHibernateOracleApp/NHibernateOracleApp.csproj",
+  "expectedPackageFiles": [
+    "/home/swebot/.nuget/packages/antlr3.runtime/3.5.1/antlr3.runtime.3.5.1.nupkg.sha512",
+    "/home/swebot/.nuget/packages/iesi.collections/4.0.4/iesi.collections.4.0.4.nupkg.sha512",
+    "/home/swebot/.nuget/packages/microsoft.bcl.asyncinterfaces/8.0.0/microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "/home/swebot/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/home/swebot/.nuget/packages/microsoft.netframework.referenceassemblies.net481/1.0.3/microsoft.netframework.referenceassemblies.net481.1.0.3.nupkg.sha512",
+    "/home/swebot/.nuget/packages/nhibernate/5.5.2/nhibernate.5.5.2.nupkg.sha512",
+    "/home/swebot/.nuget/packages/oracle.manageddataaccess/23.8.0/oracle.manageddataaccess.23.8.0.nupkg.sha512",
+    "/home/swebot/.nuget/packages/remotion.linq/2.2.0/remotion.linq.2.2.0.nupkg.sha512",
+    "/home/swebot/.nuget/packages/remotion.linq.eagerfetching/2.2.0/remotion.linq.eagerfetching.2.2.0.nupkg.sha512",
+    "/home/swebot/.nuget/packages/system.buffers/4.6.0/system.buffers.4.6.0.nupkg.sha512",
+    "/home/swebot/.nuget/packages/system.diagnostics.diagnosticsource/6.0.2/system.diagnostics.diagnosticsource.6.0.2.nupkg.sha512",
+    "/home/swebot/.nuget/packages/system.formats.asn1/8.0.1/system.formats.asn1.8.0.1.nupkg.sha512",
+    "/home/swebot/.nuget/packages/system.memory/4.6.0/system.memory.4.6.0.nupkg.sha512",
+    "/home/swebot/.nuget/packages/system.numerics.vectors/4.6.0/system.numerics.vectors.4.6.0.nupkg.sha512",
+    "/home/swebot/.nuget/packages/system.runtime.compilerservices.unsafe/6.1.0/system.runtime.compilerservices.unsafe.6.1.0.nupkg.sha512",
+    "/home/swebot/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/home/swebot/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512",
+    "/home/swebot/.nuget/packages/system.threading.tasks.extensions/4.6.0/system.threading.tasks.extensions.4.6.0.nupkg.sha512",
+    "/home/swebot/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
